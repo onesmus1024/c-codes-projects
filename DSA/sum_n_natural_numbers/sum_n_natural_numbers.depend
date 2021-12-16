@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638368927 source:/media/onesmus/dev/dev/c/DSA/sum_n_natural_numbers/main.c
+	<stdio.h>
+	<stdlib.h>
+

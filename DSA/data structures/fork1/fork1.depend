@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639040844 source:/media/onesmus/dev/dev/c/DSA/data structures/fork1/main.c
+	<stdio.h>
+	<sys/types.h>
+	<unistd.h>
+

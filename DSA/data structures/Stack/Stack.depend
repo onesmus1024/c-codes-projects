@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638432575 source:/media/onesmus/dev/dev/c/DSA/data structures/Stack/main.c
+	<stdio.h>
+	<stdlib.h>
+

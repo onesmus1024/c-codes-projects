@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638369513 source:/media/onesmus/dev/dev/c/DSA/sum/main.c
+	<stdio.h>
+	<stdlib.h>
+
