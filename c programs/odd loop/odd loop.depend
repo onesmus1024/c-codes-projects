@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1583408769 source:c:\users\ones\desktop\odd loop\main.c
+	<stdio.h>
+	<stdlib.h>
+
